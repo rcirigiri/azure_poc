@@ -1,0 +1,9 @@
+{
+    "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=azurecosmosdboperationss;AccountKey=6hR833BfzZFEwgwJOWCB1mp20KT+s/ITkLT3jUI5xlX7MMiKVEoqyD61jwjpmNkxVusDUJx25fRb4hEhHCkZRw==;BlobEndpoint=https://azurecosmosdboperationss.blob.core.windows.net/;TableEndpoint=https://azurecosmosdboperationss.table.core.windows.net/;QueueEndpoint=https://azurecosmosdboperationss.queue.core.windows.net/;FileEndpoint=https://azurecosmosdboperationss.file.core.windows.net/",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+    "CosmosDBURI": "https://fayshaikcosdb.documents.azure.com:443/",
+    "CosmosDBAccountKey": "R86uNOhvgiGmj1fvvToOwKRcGuxAfAzJXRAwdcfIP1h3JkzOwyfvp1YsiVMBe6yfp66uGfUth1L75z1DE7p6Dw=="
+  }
+}
